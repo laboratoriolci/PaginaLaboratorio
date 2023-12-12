@@ -3,7 +3,7 @@
 # [VISITAR EL WIKI DEL LABORATORIO !!!](https://github.com/laboratoriolci/PaginaLaboratorio/wiki)
 ***
 
-![LOGO LCI-FIUBA](https://github.com/laboratoriolci/PaginaLaboratorio/blob/main/LogoLCI-FIUBA.png)
+![LOGO LCI-FIUBA]([https://github.com/laboratoriolci/PaginaLaboratorio/blob/main/LogoLCI-FIUBA.png](https://github.com/laboratoriolci/PaginaLaboratorio/blob/main/Extras/Imagenes/LogoLCI-FIUBA.png))
 ***
 
 Facultad de Ingeniería de la Universidad de Buenos Aires
