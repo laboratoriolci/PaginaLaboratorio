@@ -1,4 +1,4 @@
 # PaginaLaboratorio
 Información pública del Laboratorio de Circuitos Impresos
 
-VITISAR EL WIKI DEL LABORATORIO !!!
+# [VISITAR EL WIKI DEL LABORATORIO !!!](https://github.com/laboratoriolci/PaginaLaboratorio/wiki)
